@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleUUID</key>
+	<string>4D798994-A6A1-4F7E-B06B-439743EC92D5</string>
+	<key>content</key>
+	<string>(function(\$){
+  \$.fn.$1 = function(options){
+    var opts = \$.extend({}, \$.fn.$1.defaults, options);
+    
+    return this.each(function(){
+      $2
+    })
+  }
+  
+  \$.fn.$1.defaults = {
+    
+  }
+})(jQuery);</string>
+	<key>name</key>
+	<string>jQuery Plugin</string>
+	<key>tabTrigger</key>
+	<string>jp</string>
+	<key>uuid</key>
+	<string>1291F8B1-087F-4B86-A9DB-CC3518969F40</string>
+</dict>
+</plist>

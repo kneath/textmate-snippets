@@ -7,6 +7,7 @@ A collection of Textmate snippets & bundles I find useful.
 * `/c` (HTML) expands into a `<!-- /end -->` comment (useful for ending id/class groups)
 * `reset` (CSS) expands into a CSS reset block I've become accustomed to using
 * `gradient` (CSS) expands into an Internet Explorer, Safari, and Firefox friendly CSS-Gradient syntax (and falls back gracefully)
+* `jp` (Javascript) expands into a best practices jQuery plugin.
 
 ## Command Triggers
 
