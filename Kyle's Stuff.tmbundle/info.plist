@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Kyle's Stuff</string>
+	<key>ordering</key>
+	<array>
+		<string>1291F8B1-087F-4B86-A9DB-CC3518969F40</string>
+		<string>A042F246-CB14-4D15-BEE0-9FB1162386CE</string>
+		<string>E0A9D091-F0B5-4ED1-AECF-6A47E409A270</string>
+		<string>8803C1CA-6A68-4ABD-B8A2-CA7C69B82FD2</string>
+		<string>B4E822FA-9A7A-4B15-BEDC-59E3E6598588</string>
+	</array>
+	<key>uuid</key>
+	<string>4D798994-A6A1-4F7E-B06B-439743EC92D5</string>
+</dict>
+</plist>

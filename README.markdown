@@ -12,3 +12,7 @@ A collection of Textmate snippets & bundles I find useful.
 ## Command Triggers
 
 * `Cmd+Shift+H` (CSS) expands selected text into a comment heading
+
+## Want it all?
+
+Just install Kyle's Stuff.bundle.
